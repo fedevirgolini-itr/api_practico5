@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Juan",
+      "surname": "Perez",
+      "dni": "12345678",
+      "birthday": "1990-05-15",
+      "mail": "juan.perez@example.com"
+    },
+    {
+      "name": "Maria",
+      "surname": "Gonzalez",
+      "dni": "98765432",
+      "birthday": "1985-09-22",
+      "mail": "maria.gonzalez@example.com"
+    },
+    {
+      "name": "Carlos",
+      "surname": "Lopez",
+      "dni": "56789012",
+      "birthday": "1998-11-07",
+      "mail": "carlos.lopez@example.com"
+    },
+    {
+      "name": "Laura",
+      "surname": "Martinez",
+      "dni": "34567890",
+      "birthday": "2000-02-18",
+      "mail": "laura.martinez@example.com"
+    },
+    {
+      "name": "Pedro",
+      "surname": "Ramirez",
+      "dni": "45678901",
+      "birthday": "1992-07-30",
+      "mail": "pedro.ramirez@example.com"
+    }
+  ]
+}
