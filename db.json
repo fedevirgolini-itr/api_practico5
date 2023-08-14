@@ -35,5 +35,37 @@
       "birthday": "1992-07-30",
       "mail": "pedro.ramirez@example.com"
     }
+  ],
+  "claims": [
+    {
+      "name": "Alice Johnson",
+      "mail": "alice.johnson@example.com",
+      "phone": "123-456-7890",
+      "message": "I need assistance with a damaged item."
+    },
+    {
+      "name": "John Smith",
+      "mail": "john.smith@example.com",
+      "phone": "987-654-3210",
+      "message": "My package hasn't arrived yet. Can you please check?"
+    },
+    {
+      "name": "Emily Brown",
+      "mail": "emily.brown@example.com",
+      "phone": "555-123-4567",
+      "message": "There's a discrepancy in my order. The items received are not what I expected."
+    },
+    {
+      "name": "Michael Davis",
+      "mail": "michael.davis@example.com",
+      "phone": "333-888-5555",
+      "message": "I received a defective product. Need a replacement."
+    },
+    {
+      "name": "Sophia Wilson",
+      "mail": "sophia.wilson@example.com",
+      "phone": "777-999-2222",
+      "message": "The product description was inaccurate. I'd like to return it."
+    }
   ]
 }
