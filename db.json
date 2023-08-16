@@ -1,6 +1,7 @@
 {
   "users": [
     {
+      "id":"1",
       "name": "Juan",
       "surname": "Perez",
       "dni": "12345678",
@@ -8,6 +9,7 @@
       "mail": "juan.perez@example.com"
     },
     {
+      "id":"2",
       "name": "Maria",
       "surname": "Gonzalez",
       "dni": "98765432",
@@ -15,6 +17,7 @@
       "mail": "maria.gonzalez@example.com"
     },
     {
+      "id":"3",
       "name": "Carlos",
       "surname": "Lopez",
       "dni": "56789012",
@@ -22,6 +25,7 @@
       "mail": "carlos.lopez@example.com"
     },
     {
+      "id":"4",
       "name": "Laura",
       "surname": "Martinez",
       "dni": "34567890",
@@ -29,6 +33,7 @@
       "mail": "laura.martinez@example.com"
     },
     {
+      "id":"5",
       "name": "Pedro",
       "surname": "Ramirez",
       "dni": "45678901",
@@ -38,30 +43,35 @@
   ],
   "claims": [
     {
+      "id":"1",
       "name": "Alice Johnson",
       "mail": "alice.johnson@example.com",
       "phone": "123-456-7890",
       "message": "I need assistance with a damaged item."
     },
     {
+      "id":"2",
       "name": "John Smith",
       "mail": "john.smith@example.com",
       "phone": "987-654-3210",
       "message": "My package hasn't arrived yet. Can you please check?"
     },
     {
+      "id":"3",
       "name": "Emily Brown",
       "mail": "emily.brown@example.com",
       "phone": "555-123-4567",
       "message": "There's a discrepancy in my order. The items received are not what I expected."
     },
     {
+      "id":"4",
       "name": "Michael Davis",
       "mail": "michael.davis@example.com",
       "phone": "333-888-5555",
       "message": "I received a defective product. Need a replacement."
     },
     {
+      "id":"5",
       "name": "Sophia Wilson",
       "mail": "sophia.wilson@example.com",
       "phone": "777-999-2222",
